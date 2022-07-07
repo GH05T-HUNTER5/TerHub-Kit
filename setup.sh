@@ -1,3 +1,6 @@
+# Code : GH05T HUNTER5
+# Do not upload this tool to your GitHub without my consent
+# Collaborator : GH05T-HUNTER5
 ##################################################
 #                 GH05T-HUNTER5                  #
 ##################################################
