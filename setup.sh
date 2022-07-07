@@ -42,7 +42,6 @@ echo ""
 clear
 bash setup.sh
 fi
-main () {
 pkg install python -y >> /dev/null 2>&1
 pkg install python2 -y >> /dev/null 2>&1
 apt install php -y >> /dev/null 2>&1
@@ -51,7 +50,6 @@ apt-get install ruby -y >> /dev/null 2>&1
 apt install gem -y >> /dev/null 2>&1
 apt install curl -y >> /dev/null 2>&1
 pkg install wget -y >> /dev/null 2>&1
-}
 clear
 bans
 echo -e "\033[1;37m ###########################################################################"
