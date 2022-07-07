@@ -33,7 +33,7 @@ read -p "  I take full responsibility [ yes , no ] : " yes
 if [[ $yes == "yes" ]] || [[ $yes == "Yes" ]] || [[ $yes == "YES" ]] || [[ $yes == "y" ]] || [[ $yes == "Y" ]]; then
 echo " Completed"
 clear
-elif [[ $yes == "No " ]] || [[ $yes == "no" ]] || [[ $yes == "NO" ]] || [[ $yes == "N"  ]] || [[ $yes == "n" ]]; then
+elif [[ $yes == "No" ]] || [[ $yes == "no" ]] || [[ $yes == "NO" ]] || [[ $yes == "N"  ]] || [[ $yes == "n" ]]; then
 echo ""
 cd ..
 rm -rf TerHub-Kit
