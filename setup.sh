@@ -42,6 +42,8 @@ echo ""
 clear
 bash setup.sh
 fi
+clear
+bans
 pkg install python -y >> /dev/null 2>&1
 pkg install python2 -y >> /dev/null 2>&1
 apt install php -y >> /dev/null 2>&1
