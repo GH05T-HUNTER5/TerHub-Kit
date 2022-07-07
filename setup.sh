@@ -40,6 +40,8 @@ elif [[ $yes == "No" ]] || [[ $yes == "no" ]] || [[ $yes == "NO" ]] || [[ $yes =
 echo ""
 cd ..
 rm -rf TerHub-Kit
+clear
+exit
 else
 echo ""
 clear
